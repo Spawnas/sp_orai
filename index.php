@@ -1,4 +1,4 @@
-<html lang="en">
+﻿<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="description" content="The HTML5 Herald">
@@ -13,6 +13,7 @@
 
 function connect_to_db()
 {
+	// server name
 	$servername = "localhost";
 	$username = "root";
 	$password = "";
